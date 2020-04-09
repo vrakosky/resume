@@ -8,7 +8,7 @@ $("#form").submit(function (e) {
   var information = document.getElementById('information').value;
 
   $.ajax({
-    url: 'https://script.google.com/macros/s/AKfycbzeic5bHhnQJKGDFmuoHizV13jr9B-4FhouXdj_hgIty1KtQWc/exec',
+    url: 'https://script.google.com/macros/s/AKfycbzQqYQxe4r_LdZSl7BtdCaUYGvGipJfl59a13lwYQ/exec',
     type: 'POST',
     cache: false,
     beforeSend: function () {
