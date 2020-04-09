@@ -1,5 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiZmFraHJhd3kiLCJhIjoiY2pscWs4OTNrMmd5ZTNra21iZmRvdTFkOCJ9.15TZ2NtGk_AtUvLd27-8xA';
-//mapboxgl.accessToken = 'pk.eyJ1IjoiZXNpcmVtYWxheXNpYSIsImEiOiJjanJrenA1b2wwMzR2NDRvNWZ2c2tnNjMwIn0.l8uktsY5lzluEG4xG73jUA';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZXNpcmVtYWxheXNpYSIsImEiOiJjazh0ZDQ3N2EwZGd4M21sOTRyYmE0c2k2In0.dr-_TcRmrVC7FA3V3X_X5w';
 
 if (!mapboxgl.supported()) {
     alert('Your browser does not support Mapbox GL');
